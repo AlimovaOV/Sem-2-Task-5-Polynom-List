@@ -1,0 +1,14 @@
+1>------ Сборка начата: проект: ZERO_CHECK, Конфигурация: Debug x64 ------
+1>Checking Build System
+2>------ Сборка начата: проект: polynomlist, Конфигурация: Debug x64 ------
+2>Building Custom Rule C:/Users/oval/Desktop/Sem-2-Task-5-Polynom-List-master/CMakeLists.txt
+2>main.cpp
+2>source.cpp
+2>C:\Users\oval\Desktop\Sem-2-Task-5-Polynom-List-master\source.cpp(68,8): error C2382: pow: переопределение; разные спецификации исключений
+2>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cmath(22): message : см. объявление "pow"
+2>C:\Users\oval\Desktop\Sem-2-Task-5-Polynom-List-master\source.cpp(88,55): error C2264: pow: ошибка в определении или объявлении функции; функция не вызвана
+2>Создание кода...
+2>Сборка проекта "polynomlist.vcxproj" завершена с ошибкой.
+3>------ Пропуск сборки: проект: ALL_BUILD, Конфигурация: Debug x64 ------
+3>Проект не выбран для сборки в данной конфигурации решения 
+========== Сборка: успешно: 1, с ошибками: 1, без изменений: 0, пропущено: 1 ==========
